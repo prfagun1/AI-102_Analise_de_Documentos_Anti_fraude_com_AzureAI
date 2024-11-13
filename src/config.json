@@ -1,0 +1,10 @@
+{
+    "container-name": "cartoes",
+    "storage-connection-string" : "DefaultEndpointsProtocol=https;AccountName=stprfagun1ai102;AccountKey=JaxSWJHSH6gmylHwVddwFroYaBHzTVN+qgT9QY529HjQgTb3LFw/wcXwPQB7IdCkvpV6mcsysy7U+AStPLsSsg==;EndpointSuffix=core.windows.net",
+    "storage-account-key" : "JaxSWJHSH6gmylHwVddwFroYaBHzTVN+qgT9QY529HjQgTb3LFw/wcXwPQB7IdCkvpV6mcsysy7U+AStPLsSsg==",
+    "storage-account-name" : "stprfagun1ai102",
+    "document-inteligence-key" : "DKopy9vijSigUzM6JeJ92MNm7woq7uVB7gteZAZlWD4PZsK8F6JyJQQJ99AKACYeBjFXJ3w3AAALACOG6C8M",
+    "document-inteligence-endpoint" : "https://stai102diprfagund.cognitiveservices.azure.com/",
+    "" : "",
+    "" : ""
+  }
